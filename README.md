@@ -12,10 +12,10 @@ Ngoài ra, `C` cũng thường được dùng làm phương tiện giảng dạy
 Đây là tổ họp những gì mình học đc từ khi vào đại học đến giờ, trong đấy gồm các link videos, tài liệu, các bài tập code mà mình đã làm ...
 
 ## Mục lục
-- [Chủ đề](#chu-de)
-- [Mục lục](#muc-luc)
-- [Tài liệu](#tai-lieu)
-- [Cẩm nang](#cam-nang)
+- [Chủ đề](#chủ-đề)
+- [Mục lục](#mục-lục)
+- [Tài liệu](#tài-liệu)
+- [Cẩm nang](#cẩm-nang)
 
 ## Tài liệu
 - [C Programming Tutorial for Beginners](https://youtu.be/KJgsSFOSQv0): video hướng dẫn học `C`, mặc dù là bằng tiếng Anh nhưng dễ hiểu hơn thầy giảng ở lớp...
@@ -24,7 +24,7 @@ Ngoài ra, `C` cũng thường được dùng làm phương tiện giảng dạy
 
 - [Ngôn ngữ lập trình `C` và bài học cuộc sống](https://youtu.be/Q_JTr4UPRW8): Thầy này giảng cũng rất hay \*nháy mắt\*
 
-> [![C Programming Tutorial for Beginners's thumbnail](https://i3.ytimg.com/vi/KJgsSFOSQv0/maxresdefault.jpg)](https://youtu.be/Q_JTr4UPRW8)
+> [![C Programming Tutorial for Beginners's thumbnail](https://i3.ytimg.com/vi/SbxGbVFxvuk/maxresdefault.jpg)](https://youtu.be/Q_JTr4UPRW8)
 
 ## Bài tập
 Những bài mình đã làm được lưu ở trong cái repo này, bạn hãy kéo lên trên (nếu xem trên điện thoại thì nhấn vào "View code") rồi bắt đầu xem từ folder `hk1`, hoặc lười thì nhấn luôn vào đây:
@@ -147,4 +147,4 @@ if(dieu_kien_1) {
 
 `#TODO`
 
-###### Nếu các bạn thấy bài viết hưu ích hãy star và follow mình ở [NNBnh](https://github.com/NNBnh)
+###### Nếu các bạn thấy bài viết hưu ích hãy *star* bài viết và *follow* mình ở [NNBnh](https://github.com/NNBnh). Nếu có khúc mắc, hãy mở một [issue](https://github.com/NNBnh/cam-nang-c/issues/new).

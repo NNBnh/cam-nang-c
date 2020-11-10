@@ -9,7 +9,9 @@
 `C` là ngôn ngữ rất có hiệu quả và được ưa chuộng nhất để viết các **phần mềm hệ thống**, mặc dù nó cũng được dùng cho việc **viết các ứng dụng**.
 Ngoài ra, `C` cũng thường được dùng làm phương tiện giảng dạy trong khoa học máy tính mặc dù ngôn ngữ này **không được thiết kế dành cho người nhập môn** :cry:. 
 
-Đây là tổ họp những gì mình học đc từ khi vào đại học đến giờ, trong đấy gồm các link videos, tài liệu, các bài tập code mà mình đã làm ...
+Đến từ ***D15-CNTT7***
+
+Đây là tổ họp những gì mình học đươc từ khi vào đại học đến giờ, trong đấy gồm các link videos, tài liệu, các bài tập code mà mình đã làm ...
 
 ## Mục lục
 - [Chủ đề](#chủ-đề)

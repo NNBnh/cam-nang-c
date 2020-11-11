@@ -1,0 +1,35 @@
+#include <stdio.h>
+
+int main() {
+	int l=7; // Máy tính đếm bắt đầu từ số o vì vây khi ta đặt l=7 thì tức là mảng sẽ đếm từ 0 đến 7 => có 8 gíá trị
+	float a[l]; // tạo mảng a với l giá trị
+	int n; // tạo sãn n để các tập lênh về sau có thể xử lí (coi n như là giá trị giữ chỗ làm chung chuyên giữa mảng và các phép lệnh)
+	double tbc; // Để làm câu c)
+
+	// Yêu câu người dùng nhập tất cả các giá trị cho mảng a
+	for(int i=0;i<=l;i++) {
+		printf("Hay nhap so a[%d]=", i); scanf("%d", &n);
+		a[i]=n;
+	}
+
+	printf("\na) Hien thi tat ca: ");
+	for(int i=0;i<=l;i++) {
+		n=a[i];
+		printf("%d ", n);
+	}
+
+	printf("\nb) Hien thi so lon hon 0: ");
+	for(int i=0;i<=l;i++) {
+		n=a[i];
+		if(n>0) {
+			printf("%d ", n);
+		}
+	}
+	
+	printf("\nc) Tinh trung binh cong: ");
+	for(int i=0;i<=l;i++) {
+		tbc+=a[i];
+	}
+	tbc=tbc/l;
+	printf("%lf", tbc);
+}

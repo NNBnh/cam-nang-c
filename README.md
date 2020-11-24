@@ -1,8 +1,8 @@
 <h1 align="center">Cẩm nang lập trình <code>C</code></h1>
 <p align="center">Của Nhật Anh Nguyễn</p>
 <p align="center"><img width="25%" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png"></p>
-<p align="center"><img src="https://img.shields.io/github/license/NNBnh/cam-nang-c?labelColor=181818&color=585858&style=for-the-badge" alt="License: GPL-3.0"> <img src="https://img.shields.io/github/last-commit/NNBnh/cam-nang-c?labelColor=181818&color=585858&style=for-the-badge">
-<p align="center"><img src="https://img.shields.io/github/watchers/NNBnh/cam-nang-c?labelColor=181818&color=585858&style=flat-square"> <img src="https://img.shields.io/github/stars/NNBnh/cam-nang-c?labelColor=181818&color=585858&style=flat-square"> <img src="https://img.shields.io/github/forks/NNBnh/cam-nang-c?labelColor=181818&color=585858&style=flat-square"> <img src="https://img.shields.io/github/issues/NNBnh/cam-nang-c?labelColor=181818&color=585858&style=flat-square">
+<p align="center"><img src="https://img.shields.io/github/license/NNBnh/cam-nang-c?labelColor=181818&color=585858&style=for-the-badge" alt="License: GPL-3.0"> <img src="https://img.shields.io/github/last-commit/NNBnh/cam-nang-c?labelColor=181818&color=585858&style=for-the-badge"></p>
+<p align="center"><img src="https://img.shields.io/github/watchers/NNBnh/cam-nang-c?labelColor=181818&color=585858&style=flat-square"> <img src="https://img.shields.io/github/stars/NNBnh/cam-nang-c?labelColor=181818&color=585858&style=flat-square"> <img src="https://img.shields.io/github/forks/NNBnh/cam-nang-c?labelColor=181818&color=585858&style=flat-square"> <img src="https://img.shields.io/github/issues/NNBnh/cam-nang-c?labelColor=181818&color=585858&style=flat-square"></p>
 
 ## Chủ đề
 `C` là một ngôn ngữ mệnh lệnh được phát triển từ đầu thập niên 1970 bởi Dennis Ritchie để dùng trong hệ điều hành UNIX.

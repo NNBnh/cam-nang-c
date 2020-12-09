@@ -33,6 +33,67 @@ Những bài mình đã làm được lưu ở trong cái repo này, bạn hãy 
 - [Bài tập học kì 1](https://github.com/NNBnh/cam-nang-c/tree/main/hk1)
 
 ## Cẩm nang
+Sau khi viet code, may tinh se doc code theo thu tu t trai sang phai, tu tren xuong duoi:
+
+```c
+cau_lenh(chi_tiet_1, chi_tiet_2) {
+	ham_lenh
+}; // dau ";" de ngan cach giua cac lenh
+```
+
+###### Mot so lenh co the khong can them `chi_tiet` hay `ham_lenh` nhung nhat thiet phai co `cau_lenh` va dau `;` nga cach neu khong co ham
+
+Ham co the duoc hieu la danh sach mot chuoi cac lenh duoc goi lai vao mot nhom de khi goi cai ham ta chay luon tat ca cac lenh ben trong ham y.
+
+Tạo hàm (a.k.a: `function`):
+```c
+int ten_ham(chi_tiet) {
+	cau_lenh1;
+	cau_lenh2;
+	// ...
+}
+
+int chuong_moi(chuong) {
+	printf("\n==========");
+	printf("\nChuong %d", chuong);
+	printf("\n==========");
+}
+
+int chia(gia_tri_can_chia) {
+	ket_qua==gia_tri_can_chia/2;
+	return ket_qua;
+}
+```
+
+Gọi hàm:
+```c
+chuong_moi(1);
+printf("\nHello world!");
+
+chuong_moi(2);
+dap_an==chia(8);
+
+printf("\n%d", dap_an);      // Khi chạy, chương trình sẽ in ra 4
+printf("\n%d", chia(12)); // Đây là cách làm rút gọn, khi chạy, chương trình sẽ in ra 6 (khuyên dùng)
+```
+
+Output:
+
+```
+==========
+Chuong 1
+==========
+Hello world!
+
+==========
+Chuong 2
+==========
+4
+6
+```
+
+###### NOTE: `main()` là hàm mà c sẽ luôn luôn chạy đầu tiên, hãy cho tấn cả mọi thứ vào đấy trừ khi tích hợp thư viện, cũng nên tọa những hàm khác phía trước hàm `main` để khi `main` chạy, những hàm kia đã tồn tại và chương trình không bị lỗi.
+
 Tích hợp thư viện:
 
 ```c
@@ -72,24 +133,6 @@ Ngoài cộng ra còn một số các phép tình khác:
 	"%": Chia xong lấy số dư, hợp lí để kiểm tra xem số x có chia hết cho số y hay không
 */
 ```
-
-Tạo hàm (a.k.a: `function`):
-```c
-int ten_ham(gia_tri_can_chia) {
-	ket_qua==gia_tri_can_chia/2;
-	return ket_qua;
-```
-
-Gọi hàm:
-```c
-dap_an==ten_ham(8);
-
-printf("%d", dap_an);      // Khi chạy, chương trình sẽ in ra 4
-printf("%d", ten_ham(12)); // Đây là cách làm rút gọn, khi chạy, chương trình sẽ in ra 6 (khuyên dùng)
-
-```
-
-###### NOTE: `main()` là hàm mà c sẽ luôn luôn chạy đầu tiên, hãy cho tấn cả mọi thứ vào đấy trừ khi tích hợp thư viện, cũng nên tọa những hàm khác phía trước hàm `main` để khi `main` chạy, những hàm kia đã tồn tại và chương trình không bị lỗi.
 
 ## Điều kiện
 ```C
@@ -150,3 +193,87 @@ if(dieu_kien_1) {
 `#TODO`
 
 ###### Nếu các bạn thấy bài viết hưu ích hãy *star* bài viết và *follow* mình ở [NNBnh](https://github.com/NNBnh). Nếu có khúc mắc, hãy mở một [issue](https://github.com/NNBnh/cam-nang-c/issues/new).
+
+### Vong lap
+Vong lap se chay di chay lai ham neu dieu kien thoa man:
+
+```c
+while(dieu_kien) {
+	lenh_1_duoc_chay_neu_dieu_kien_thoa_man;
+	lenh_2_duoc_chay_neu_dieu_kien_thoa_man;
+	lenh_3_duoc_chay_neu_dieu_kien_thoa_man;
+} // neu dieu kien van thoa man thi ham nay se duoc chay lai tu dau (chay lai lenh 1 den lenh 3)
+```
+
+No se chay the nay vo han neu `dieu_kien` tiep tuc thoa man, hay lam cho dieu kien nay co diem dung, day la vi du ve mot chiec bom:
+
+```c
+int count=5; // <1> Tao gia tri de dem
+
+while(count>0) { // <2> Kiem tra xem khi nao count dem den khong thi vong lap se khong duoc chay nua
+	printf("%d\n", count);
+
+	count--; // <3> Tru di mot cho gia tri count moi lan truoc khi vong lap lap lai
+}
+
+printf("BOOM!!!");
+```
+
+Vi du de may tinh dem tu 1 den 10:
+
+```c
+int count=1; // <1> Tao gia tri de dem
+
+while(count<=10) { // <2> Kiem tra xem neu count nho hon hoac bang 10 thi tiet tuc vong lap, neu qua 10 roi thi thoat
+	printf("%d\n", count);
+
+	count++; // <3> Tang them mot cho gia tri count moi lan truoc khi vong lap lap lai
+}
+
+printf("Da dem xong!");
+```
+
+Neu ban muon cho ham o trong vong lap chay truoc mot lan sau day kiem tra xem dieu kien co thoa man khong thi moi lap lai tiep:
+
+```c
+int n;
+
+do {
+	printf("Hay nhap gia tri: "); scanf("%d", &n); // Yeu cau nguoi dung nhap gia tri n
+} while(!(n>0)); // Neu gia tri n khong lon hon 0 thi yeu cau nguoi dung nhap lai cho den khi nao dung thi thoi
+```
+
+Nho vi du *dem tu 1 den 10* neu bay gio ta phai lam 3 buoc `<1>` `<2>` `<3>` moi lan o truoc, trong va cuoi vong lap thi rat ma roi rac va moi tay, day la cach de rut gon:
+
+```c
+int count; // Van phai tao gia tri ra truoc
+
+//   <1> Dat gia tri can dem bang 1 de dem bat dau tu 1
+//    |
+//    |      <2> Kiem tra xem neu count nho hon hoac bang 10 thi tiet tuc vong lap, neu qua 10 roi thi thoat
+//    |       |
+//    |       |        <3> Tang them mot cho gia tri count moi lan truoc khi vong lap lap lai
+//    |       |         |
+//    v       v         v
+for(count=0;count<=10;count++) {
+	printf("%d\n", count);
+}
+
+printf("Da dem xong!");
+```
+
+In ra man hinh so do EPU o day nha A:
+
+```c
+int tang, phong;
+
+for(tang=1;tang<=4;tang++) {
+	printf("\nTang %d:", tang);
+	
+	for(phong=1;phong<=8;phong++) {
+		printf(" A%d0%d:", tang, phong);
+	}
+}
+```
+
+M102

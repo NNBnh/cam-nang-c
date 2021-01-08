@@ -38,7 +38,7 @@ int x;
 
 do {
 	printf("Hay nhap x: "); scanf("%d", &x);
-} while(!((x>=0)&&(n<=100))); # Thay đổi điều kiện oẳ đây tùy thuọc vào yêu cầu của đề bài
+} while(!((x>=0)&&(x<=100))); # Thay đổi điều kiện oẳ đây tùy thuọc vào yêu cầu của đề bài
 ```
 
 - Nhập m (số hàng) và n (số cột) của ma trận:

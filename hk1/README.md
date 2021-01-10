@@ -1,4 +1,3 @@
-
 <h1 align="center">Steal the 6</h1>
 <p align="center">Ăn chắc 6 điểm</p>
 
@@ -66,7 +65,7 @@ int m, n, i, j, hold;
 for(i=0; i<m; i++) {
 	for(i=0; j<n; j++) {
 		printf("Hay nhap gia tri cua thanh phan a[%d][%d]: ", m, n); scanf("%d", &hold);
-		a[m][n]=hold;
+		a[i][j]=hold;
 	}
 }
 ```
@@ -80,7 +79,7 @@ int m, n, i, j, hold;
 
 for(i=0; i<m; i++) {
 	for(i=0; j<n; j++) {
-		hold=a[m][n];
+		hold=a[i][j];
 		printf("%d ", hold);
 	}
 
@@ -99,7 +98,7 @@ int m, n, i, j, hold;
 
 for(i=0; i<m; i++) {
 	for(i=0; j<n; j++) {
-		hold=a[m][n];
+		hold=a[i][j];
 		
 		if(hold%2==0) {
 			printf("%d ", hold); # Nếu số là số chẵn
@@ -116,7 +115,7 @@ float sum;
 
 for(i=0; i<m; i++) {
 	for(i=0; j<n; j++) {
-		hold=a[m][n];
+		hold=a[i][j];
 		
 		if(hold%2==0) {
 			sum+=hold;

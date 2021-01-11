@@ -16,7 +16,7 @@
     
 # II. [Sự tác động qua lại giữa tăng trưởng kinh tế với vấn đề bảo vệ môi trường và tài nguyên thiên nhiên](https://tks.edu.vn/thong-tin-khoa-hoc/chi-tiet/117/220)
 - Nguồn: **Mối quan hệ giữa tăng trưởng kinh tế và thực hiện chính sách xã hội trong phát triển bền vững - những giải pháp chủ yếu đối với Việt Nam**
-- Xuất bản năm **2020**
+- Xuất bản năm: **2020**
 - Tác giả: **Trường đại học kiểm soát Hà Nội**
 - Liên kết: https://tks.edu.vn/thong-tin-khoa-hoc/chi-tiet/117/220
 

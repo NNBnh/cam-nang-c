@@ -26,8 +26,8 @@ Thường là câu 1, yêu càu người dùng nhập vào một gíá trị nà
 int x;
 float y;
 
-printf("Hay nhap x: "); scanf("%d", &x); # Nếu đây là số nguyên
-printf("Hay nhap y: "); scanf("%f", &y); # Nếu đây là số thực
+printf("Hay nhap x: "); scanf("%d", &x); // Nếu đây là số nguyên
+printf("Hay nhap y: "); scanf("%f", &y); // Nếu đây là số thực
 ```
 
 - Nhập số x với điều kiện lớn hơn 0 và nhỏ hơn 100:
@@ -37,7 +37,7 @@ int x;
 
 do {
 	printf("Hay nhap x: "); scanf("%d", &x);
-} while(!((x>=0)&&(x<=100))); # Thay đổi điều kiện oẳ đây tùy thuọc vào yêu cầu của đề bài
+} while(!((x>=0)&&(x<=100))); // Thay đổi điều kiện oẳ đây tùy thuọc vào yêu cầu của đề bài
 ```
 
 - Nhập m (số hàng) và n (số cột) của ma trận:
@@ -53,8 +53,8 @@ do {
 	printf("Hay nhap so cot cua ma tran: "); scanf("%d", &n);
 } while(!(n>0));
 
-int   a[m][n]; # Nếu đây là ma trận số nguyên
-float a[m][n]; # Nếu đây là ma trận số thực
+int   a[m][n]; // Nếu đây là ma trận số nguyên
+float a[m][n]; // Nếu đây là ma trận số thực
 ```
 
 - Nhập từng thành phần bên trong ma trận (thường là câu 2):
@@ -83,7 +83,7 @@ for(i=0; i<m; i++) {
 		printf("%d ", hold);
 	}
 
-	printf("\n"); # \n là kí tự xuống dòng
+	printf("\n"); // \n là kí tự xuống dòng
 }
 ```
 
@@ -99,9 +99,9 @@ int m, n, i, j, hold;
 for(i=0; i<m; i++) {
 	for(j=0; j<n; j++) {
 		hold=a[i][j];
-		
+
 		if(hold%2==0) {
-			printf("%d ", hold); # Nếu số là số chẵn
+			printf("%d ", hold); // Nếu số là số chẵn
 		}
 	}
 }
@@ -116,7 +116,7 @@ float sum;
 for(i=0; i<m; i++) {
 	for(j=0; j<n; j++) {
 		hold=a[i][j];
-		
+
 		if(hold%2==0) {
 			sum+=hold;
 			count++

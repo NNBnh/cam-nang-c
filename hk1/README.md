@@ -63,8 +63,8 @@ float a[m][n]; # Nếu đây là ma trận số thực
 int m, n, i, j, hold;
 
 for(i=0; i<m; i++) {
-	for(i=0; j<n; j++) {
-		printf("Hay nhap gia tri cua thanh phan a[%d][%d]: ", m, n); scanf("%d", &hold);
+	for(j=0; j<n; j++) {
+		printf("Hay nhap gia tri cua thanh phan a[%d][%d]: ", i, j); scanf("%d", &hold);
 		a[i][j]=hold;
 	}
 }
@@ -78,7 +78,7 @@ for(i=0; i<m; i++) {
 int m, n, i, j, hold;
 
 for(i=0; i<m; i++) {
-	for(i=0; j<n; j++) {
+	for(j=0; j<n; j++) {
 		hold=a[i][j];
 		printf("%d ", hold);
 	}
@@ -97,7 +97,7 @@ Từ đây trở đi là lấy từ điểm 6 trở lên (lấy đi)
 int m, n, i, j, hold;
 
 for(i=0; i<m; i++) {
-	for(i=0; j<n; j++) {
+	for(j=0; j<n; j++) {
 		hold=a[i][j];
 		
 		if(hold%2==0) {
@@ -114,7 +114,7 @@ int m, n, i, j, hold, count;
 float sum;
 
 for(i=0; i<m; i++) {
-	for(i=0; j<n; j++) {
+	for(j=0; j<n; j++) {
 		hold=a[i][j];
 		
 		if(hold%2==0) {

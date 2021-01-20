@@ -6,65 +6,22 @@ https://text.xemtailieu.com/tai-lieu/tieu-luan-phep-bien-chung-ve-moi-lien-he-ph
 
 MỤC LỤC
 
-MụC LụC
-LờI Mở đầU
-CHươNG 1 PHỘP BIệN CHứNG Về MốI LIỜN Hệ PHổ BIếN
-
-3
-
-1.1 Sự RA đờI CủA PHỘP BIệN CHứNG
-
-3
-
-1.2 NGUYỜN LỚ Về MốI LIỜN Hệ PHổ BIếN
-
-4
-
-1.2.1 NộI DUNG NGUYỜN LỚ Về MốI LIỜN Hệ PHổ BIếN
-
-4
-
-1.2.2 Í NGHĩA PHươNG PHỎP LUậN Về MốI LIỜN Hệ PHổ BIếN
-
-6
-
-CHươNG 2 MốI LIỜN Hệ GIữA TăNG TRưởNG KINH Tế Và BảO Vệ
-MỤI TRườNG ở VIệT NAM 8
-2.1 MốI LIỜN Hệ BIệN CHứNG GIữA TăNG TRưởNG KINH Tế Và
-BảO Vệ MỤI TRườNG
-
-8
-
-2.2 MỤI TRườNG đANG Bị HUỷ HOạI DO CỎC CHỚNH SỎCH TăNG
-TRưởNG KINH Tế ở VIệT NAM
-2.2.1 TRONG CỤNG NGHIệP
-
-9
-9
-
-2.2.2 TRONG NỤNG NGHIệP
-
-12
-
-2.2.3 TRONG DU LịCH - BIểN
-
-13
-
-2.2.4 GIA TăNG MứC TIỜU THụ
-
-14
-
-2.3 HậU QUả CủA Ụ NHIễM MỤI TRườNG
-
-15
-
-2.4 GIảI PHỎP GIảI QUYếT VấN đề
-
-16
-
-TàI LIệU THAM KHảO
-
-19
+## MỞ ĐẦU
+## NỘI DUNG
+### I. Cơ sở lý luận
+- 1.1 Sự RA đờI CủA PHỘP BIệN CHứNG
+- 1.2 NGUYỜN LỚ Về MốI LIỜN Hệ PHổ BIếN
+  - 1.2.1 NộI DUNG NGUYỜN LỚ Về MốI LIỜN Hệ PHổ BIếN
+  - 1.2.2 Í NGHĩA PHươNG PHỎP LUậN Về MốI LIỜN Hệ PHổ BIếN
+### II. Vận dụng/Thực tiễn
+- 2.1 MốI LIỜN Hệ BIệN CHứNG GIữA TăNG TRưởNG KINH Tế Và BảO Vệ MỤI TRườNG
+- 2.2 MỤI TRườNG đANG Bị HUỷ HOạI DO CỎC CHỚNH SỎCH TăNG TRưởNG KINH Tế ở VIệT NAM
+  - 2.2.1 TRONG CỤNG NGHIệP
+  - 2.2.2 TRONG NỤNG NGHIệP
+  - 2.2.3 TRONG DU LịCH - BIểN
+  - 2.2.4 GIA TăNG MứC TIỜU THụ
+- 2.3 HậU QUả CủA Ụ NHIễM MỤI TRườNG
+- 2.4 GIảI PHỎP GIảI QUYếT VấN đề
 
 LỜI MỞ ĐẦU
 Chúng ta đang sống trong một mạng lưới sụ sống rộng lớn. Giống như một

@@ -4,6 +4,49 @@ https://text.xemtailieu.com/tai-lieu/tieu-luan-phep-bien-chung-ve-moi-lien-he-ph
 
 ---
 
+## MỤC LỤC
+
+### MỞ ĐẦU ........ 1
+### NỘI DUNG ........ 2
+I. Nguyên lí về mối liên hệ phổ biến ........ 2
+- 1.1. Khái niệm về mối liên hệ phổ biến ........ 2
+- 1.2. Nội dung về nguyên lí mối liên hệ phổ biến ........ 2
+- 1.3. Tính chất của mối liên hệ phổ biến ........ 4
+  - 1.3.1. Tính khách quan của mối liên hệ phổ biến ........ 4
+  - 1.3.2. Tính phổ biến của mối liên hệ phổ biến ........ 4
+  - 1.3.3. Tính phong phú, đa dạng của mối liên hệ phổ biến ........ 5
+- 1.4. Ý nghĩa phương pháp lập luận rút ra từ nguyên lí về mối liên hệ phổ biến ........ 6
+  - 1.4.1. Quan điểm toàn diện ........ 8
+  - 1.4.2. Quan điểm lịch sử, cụ thể ........ 9
+  
+II. Sự tác động qua lại giữa tăng trưởng kinh tế với vấn đề bảo vệ môi trường và tài nguyên thiên nhiên ........ 10
+- 2.1. Mối liên hệ biện chứng giữa tăng trưởng kinh tế và bảo vệ môi trường ........ 10
+- 2.2. Môi trường đang bị huỷ hoại do các chính sách tăng trưởng kinh tế ........ 11
+  - 2.2.1. Trong công nghiệp ........ 10
+  - 2.2.2. Trong nông nghiệp ........ 14
+  - 2.2.3. Trong du lịch biển ........ 15
+  - 2.2.4. Gia tăng mức tiêu thụ ........ 17
+- 2.3. Hậu quả của ô nhiễm môi trường ........ 18
+- 2.4. Giải pháp giải quyết vấn đề ........ 18
+### KẾT LUẬN ........ 20
+### DANH MỤC TÀI LIỆU THAM KHẢO
+
+DANH MỤC TÀI LIỆU THAM KHẢO
+1. G.s Lê Quý An, Du lịch và môi trường, Tạp chí Du lịch, số 12, 1999.
+2. Nguyễn Anh, Hội thảo khoa học về môi trường chuyên ngành mỏ, luyện kim, hoá chất, Tạp chí Công nghiệp, số 19, 1999.
+3. Craig Leisher, Môi trường Việt Nam những điều cần làm, Tạp chí Bảo vệ môi trường, số 7, 2001.
+4. Lê Minh Đức, Bảo vệ môi trường và vấn đề phát triển bền vững ở Việt Nam, Con số và sự kiện, số 12, 1999.
+5. Th.s Vũ Xuân Nguyệt Hồng, Đặng Thị Thu Hoài, Hội nhập kinh tế thế giới với bảo vệ môi trường ở Việt Nam, Tạp chí Chuyên đề môi trường kinh tế, 2001.
+6. T.s Nguyễn Đắc Huy, Đinh Đức Tường, Nguyễn Mỹ Hoàng, Một vài suy nghĩ về quản lý môi trường trong nền kinh tế chuyển đổi ở Việt Nam, Tạp chí Chuyên đề Môi trường kinh tế, 2001.
+7. T.s Trần Thanh Lâm, Một tiếp cận mới trong quản lý thương mại và bảo vệ môi trường ở Việt Nam, Tạp chí Xây dưng, số 3, 2002.
+8. Nhiều tác giả, Bảo vệ môi trường trên quan điểm phát triển bền vững, Tạp chí Bảo vệ môi trường, số 6, 2002.
+9. Nhiều tác giả, Định hướng nhà nước và hiện trạng môi trường ở Việt Nam, Tạp chí Công nghiệp, số 18, 2000.
+10. Nhiều tác giả, Môi trường, quá khứ, hiện tại, tương lai, Tạp chí Khoa học công nghệ và môi trường, số 7, 2002.
+11. T.s Danh Sơn, Các lợi ích về bảo vệ môi trường ở nước ta, Tạp chi Bảo vệ môi trường, số 2 năm 2001.
+12. Lâm Minh Triết, Nguyễn Thanh Hùng, Một vài giải pháp môi trường cho các cơ sở sản xuất vừa và nhỏ, Tạp chí Bảo vệ môi trường, số 7, 2001.
+
+---
+
 MỤC LỤC
 
 ## MỞ ĐẦU

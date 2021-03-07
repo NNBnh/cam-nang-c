@@ -1,3 +1,7 @@
+# BTVN CSDL
+- Họ tên:  Nguyễn Nhật Anh
+- Lớp: `D15-CNTT7`
+
 # Ví dụ 1
 |[R]|A |B |C |[S]|B |C |D |[Q]|D |E |F |
 |---|--|--|--|---|--|--|--|---|--|--|--|

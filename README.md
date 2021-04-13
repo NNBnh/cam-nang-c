@@ -71,7 +71,7 @@ chuong_moi(1);
 printf("\nHello world!");
 
 chuong_moi(2);
-dap_an==chia(8);
+dap_an=chia(8);
 
 printf("\n%d", dap_an);      // Khi chạy, chương trình sẽ in ra 4
 printf("\n%d", chia(12)); // Đây là cách làm rút gọn, khi chạy, chương trình sẽ in ra 6 (khuyên dùng)
@@ -119,10 +119,10 @@ bool   cong_tac;      // VD: true, false.
 Thay đổi giá trị:
 
 ```c
-so_nguyen==12;       // Đặt so_nguyen là 12
-so_thap_phan==3.14;  // Đặt so_thap_phan là 3.14
+so_nguyen=12;       // Đặt so_nguyen là 12
+so_thap_phan=3.14;  // Đặt so_thap_phan là 3.14
 
-a==b+c; // Dặt a bằng b+c
+a=b+c; // Dặt a bằng b+c
 
 /*
 Ngoài cộng ra còn một số các phép tình khác:
@@ -275,5 +275,3 @@ for(tang=1;tang<=4;tang++) {
 	}
 }
 ```
-
-M102

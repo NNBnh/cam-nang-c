@@ -11,7 +11,7 @@ int main() {
      *  `soNguyen'    `-soThuc-'
      *
      *  - Gia tri nhu nhung chiec hop voi nhung ten goi
-     *  - no co the chua cac loai du lieu nhu so nguyen, so thuc, dong chu, ki tu...
+     *  - No co the chua cac loai du lieu nhu so nguyen, so thuc, dong chu, ki tu...
      */
 
 	/*  [Khai bao gia thi]

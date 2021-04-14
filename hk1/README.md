@@ -60,12 +60,11 @@ float a[m][n]; // Nếu đây là ma trận số thực
 - Nhập từng thành phần bên trong ma trận (thường là câu 2):
 
 ```c
-int m, n, i, j, hold;
+int m, n, i, j;
 
 for(i=0; i<m; i++) {
 	for(j=0; j<n; j++) {
-		printf("Hay nhap gia tri cua thanh phan a[%d][%d]: ", i, j); scanf("%d", &hold);
-		a[i][j]=hold;
+		printf("Hay nhap gia tri cua thanh phan a[%d][%d]: ", i, j); scanf("%d", &a[i][j]);
 	}
 }
 ```
@@ -75,12 +74,11 @@ for(i=0; i<m; i++) {
 - In ra ma trận (thường là câu 3, nếu may mán mà vào dạng bài có dúng 3 câu kiểu này, mỗi câu 2 điểm thì bạn đã ăn chắc 6 điểm):
 
 ```c
-int m, n, i, j, hold;
+int m, n, i, j;
 
 for(i=0; i<m; i++) {
 	for(j=0; j<n; j++) {
-		hold=a[i][j];
-		printf("%d ", hold);
+		printf("%d ", a[i][j]);
 	}
 
 	printf("\n"); // \n là kí tự xuống dòng
@@ -94,14 +92,12 @@ Từ đây trở đi là lấy từ điểm 6 trở lên (lấy đi)
 - In ra số trong ma trận mà thỏa mãn diều kiện nhất định:
 
 ```c
-int m, n, i, j, hold;
+int m, n, i, j;
 
 for(i=0; i<m; i++) {
 	for(j=0; j<n; j++) {
-		hold=a[i][j];
-
-		if(hold%2==0) {
-			printf("%d ", hold); // Nếu số là số chẵn
+		if(a[i][j]%2==0) {
+			printf("%d ", a[i][j]); // Nếu số là số chẵn
 		}
 	}
 }
@@ -110,15 +106,13 @@ for(i=0; i<m; i++) {
 - Tính trung bình cộng của tất cả các số thỏa mãn điều kiện:
 
 ```c
-int m, n, i, j, hold, count;
+int m, n, i, j, count;
 float sum;
 
 for(i=0; i<m; i++) {
 	for(j=0; j<n; j++) {
-		hold=a[i][j];
-
-		if(hold%2==0) {
-			sum+=hold;
+		if(a[i][j]%2==0) {
+			sum+=a[i][j];
 			count++
 		}
 	}

@@ -20,6 +20,45 @@ int main() {
 	 *         neu cong nhan lam viec duoi 10 tieng, hay tru luong cua cong nhan ay 9000k
 	 *         va in ra so luong cua cong nhan mot lan nua.
 	 *
+	 *  [Re nhanh if]
+	 *
+	 *  if( dieu_kien ) { // Neu dieu kien thoa man thi chay tap lenh trong ngoac nhon
+	 *  	cau_lenh_1;
+	 *  	cau_lenh_2;
+	 *  	...
+	 *  }
+	 *
+	 *  [Re nhanh if-else]
+	 *
+	 *  if( dieu_kien ) { // Neu dieu kien thoa man thi chay tap lenh trong ngoac nay
+	 *  	cau_lenh_1;
+	 *  	cau_lenh_2;
+	 *  	...
+	 *  } else { // Neu khong thi chay dong duoi nay
+	 *  	cau_lenh_a;
+	 *  	cau_lenh_b;
+	 *  }
+	 *
+	 *  [Re nhanh if-else-if]
+	 *
+	 *  if( dieu_kien ) { // Neu dieu kien thoa man thi chay tap lenh trong ngoac nay
+	 *  	cau_lenh_1;
+	 *  	cau_lenh_2;
+	 *  	...
+	 *  } else if( dieu_kien ) { // Neu dieu kien thoa man thi chay tap lenh trong ngoac nay
+	 *  	cau_lenh_a;
+	 *  	cau_lenh_b;
+	 *  	...
+	 *  } else if( dieu_kien ) { // Neu dieu kien thoa man thi chay tap lenh trong ngoac nay
+	 *  	cau_lenh_m;
+	 *  	cau_lenh_n;
+	 *  	...
+	 *  } else { // Neu tat ca dong tren khong thoa man chi chay tap lenh trong ngoac nay
+	 *  	cau_lenh_x;
+	 *  	cau_lenh_y;
+	 *  	...
+	 *  }
+	 *
 	 *  [Dieu kien kiem tra]
 	 *    (a == b): a bang b
 	 *    (a >  b): a lon hon b
@@ -38,7 +77,7 @@ int main() {
 		luong = luong + 100;
 	} else {
 		luong = luong - 9999;
-	}
+	} // */
 
 	printf("\nCau 3: So luong cua cong nhan bang %d", luong);
 }

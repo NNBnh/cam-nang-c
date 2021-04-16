@@ -15,7 +15,9 @@ float cau3(float A, float x, int n) {
 	return S;
 }
 
+// Cau 4
 void main() {
+	// Cau 1
 	float x, A;
 	printf("Hay nhap so thuc x: "); scanf("%f", &x);
 	printf("Hay nhap so thuc A: "); scanf("%f", &A);

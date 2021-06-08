@@ -12,14 +12,25 @@ struct maytinh { // Dinh dang cau truc
 // Cau 1
 void nhap(maytinh * p, int n) {
 	for (int i = 0; i < n; i++) {
+		// `(p + i) -> GIATRI` co the hieu nhu la cac gia tri thong thuong trong mot ma tran VD: `p[??]`
+		// Nhung no su dung cau truc nay la de lam viec voi con tro
+
 		/*
 		 * [Yeu cau nguoi dung nhap gia tri khi lam viec voi con tro]
 		 *
 		 * Day la cach de nguoi dung nhap vao mot gia tri `float` hoac `int`:
-		 *	scanf("%f", &(p + i) -> SO);
+		 *	scanf("%f", &(p + i) -> SOLIEU);
+		 *      -----
+		 *        |
+		 *        `--> Quet so lieu (so nguyen, so thuc) nguoi dung nhap tu ban phim
 		 * 
 		 * Con day la cach de nguoi dung nhap chuoi `char[??]`:
 		 *	fflush(stdin); gets((p + i) -> CHUOI);
+		 *     -------        -----
+		 *        |             |
+		 *        |             `--> Quet du lieu (ki tu, dong chu) nguoi dung nhap tu ban phim
+		 *        |
+		 *        `--> Loc tat ca nhung ki tu dac biet tu dau vao ma nguoi dung nhap
 		*/
 
 		printf("Nhap thong tin cua may tinh %d:\n", i + 1);

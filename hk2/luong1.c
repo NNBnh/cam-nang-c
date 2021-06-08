@@ -119,7 +119,7 @@ int main() {
 	printf("\ncac may tinh co nam sx 2019 la:\n");
 	timnamsx(p, n);
 
-	// Cau 4
+	// Cau 5
 	ghitep(p, n);
 
 	free(p); // Giai phong bo nho

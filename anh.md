@@ -64,19 +64,19 @@
 8.  **Teacher** *(n) /ˈtiː.tʃər/* -- Giáo viên
     > **E.g:** My English is so beautiful.
 9.  **Student** *(n) /ˈstjuː.dənt/* -- Sinh viên
-    > **E.g:** 
-10. **** *() * -- 
-    > **E.g:** 
+    > **E.g:** He was a student at the University of Chicago.
+10. **School** *(n) /skuːl/* -- Trường học
+    > **E.g:** Which school do you go to?
 
-### 4
-1.  **** *() * -- 
-    > **E.g:** 
-2.  **** *() * -- 
-    > **E.g:** 
-3.  **** *() * -- 
-    > **E.g:** 
-4.  **** *() * -- 
-    > **E.g:** 
+### Celebrations and festivals
+1.  **Celebration** *(v) /ˈsel.ə.breɪt/* -- Lễ kỷ niệm
+    > **E.g:** We always celebrate our wedding anniversary by going out to dinner.
+2.  **Festival** *(n) /ˈfes.tɪ.vəl/* -- Lễ hội
+    > **E.g:** Hotel rooms in the city are ridiculously overpriced during the festival.
+3.  **Float** *(n) /fləʊt/* -- Xe diễu hành/Xe hoa
+    > **E.g:** There are a lot of beautiful float on this festival.
+4.  **Dress up** *(v) /dres/* -- Ăn diện lên
+    > **E.g:** Let's dress up for the party.
 5.  **** *() * -- 
     > **E.g:** 
 6.  **** *() * -- 

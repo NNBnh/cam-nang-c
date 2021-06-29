@@ -1,6 +1,8 @@
 # Nguyễn Nhật Anh
 `D15` `CNTT7`
 
+## 1
+### Technology
 1.  **Technology** *(n) /tekˈnɒl.ə.dʒi/* -- Công nghệ
     > **E.g:** What this country needs is a long-term policy for investment in science and technology.
 2.  **Robot** *(n) /ˈrəʊ.bɒt/* -- Người máy
@@ -22,7 +24,7 @@
 10. **Video game** *(n) /ˈvɪd.i.əʊ ˌɡeɪm/* -- Trò chơi điện tử
     > **E.g:** He gets really hyped up when he's playing video games.
 
-
+### Language
 1.  **Language** *(n) /ˈlæŋ.ɡwɪdʒ/* -- Ngôn ngữ
     > **E.g:** Do you speak any foreign languages?
 2.  **Writing** *(n) /ˈraɪ.tɪŋ/* -- Viết
@@ -37,31 +39,53 @@
     > **E.g:** Google is the biggest company that providing information to government
 7.  **Conversation** *(n) /ˌkɒn.vəˈseɪ.ʃən/* -- Cuộc hội thoại
     > **E.g:** She had a conversation with the man who moved in upstairs.
-8.  **** *() * --
-    > **E.g:**
-9.  **** *() * --
-    > **E.g:**
-10. **** *() * --
-    > **E.g:**
+8.  **Symbols** *(n)  /ˈsɪm.bəl/* -- Ký hiệu
+    > **E.g:** The symbols were made of clay.
+9.  **Character** *(n) The address was written in Chinese/Japanese characters* -- Kí tự
+    > **E.g:** The address was written in Japanese characters.
+10. **Speakers** *(n) /ˈspiː.kər/* -- Diễn giả
+    > **E.g:** Speakers is the person who gives a speech at a public event.
 
+### Education
+1.  **Education** *(n) /ˌedʒ.ʊˈkeɪ.ʃən/* -- Giáo dục
+    > **E.g:** As a child he received most of his education at home.
+2.  **Study** *(v) /ˈstʌd.i/* -- Học
+    > **E.g:** She's been studying for her doctorate for three years already.
+3.  **Learning** *(n)  /ˈlɜː.nɪŋ/* -- Học tập
+    > **E.g:** Some students have a more analytical approach to learning.
+4.  **Course** *(n) /kɔːs/* -- Khóa học
+    > **E.g:** They're going away on a training course next week.
+5.  **Book** *(n) /bʊk/* -- Sách
+    > **E.g:** Don't judge a book by it's cover.
+6.  **Take note** *(v) /teɪk nəʊt/* -- Ghi chú lại
+    > **E.g:** I'll take note of your name and address.
+7.  **Exam** *(n) /ɪɡˈzæm/* -- Thi
+    > **E.g:** I failed my physics exam, but I passed chemistry.
+8.  **Teacher** *(n) /ˈtiː.tʃər/* -- Giáo viên
+    > **E.g:** My English is so beautiful.
+9.  **Student** *(n) /ˈstjuː.dənt/* -- Sinh viên
+    > **E.g:** 
+10. **** *() * -- 
+    > **E.g:** 
 
-1.  **** *() * --
-    > **E.g:**
-2.  **** *() * --
-    > **E.g:**
-3.  **** *() * --
-    > **E.g:**
-4.  **** *() * --
-    > **E.g:**
-5.  **** *() * --
-    > **E.g:**
-6.  **** *() * --
-    > **E.g:**
-7.  **** *() * --
-    > **E.g:**
-8.  **** *() * --
-    > **E.g:**
-9.  **** *() * --
-    > **E.g:**
-10. **** *() * --
-    > **E.g:**
+### 4
+1.  **** *() * -- 
+    > **E.g:** 
+2.  **** *() * -- 
+    > **E.g:** 
+3.  **** *() * -- 
+    > **E.g:** 
+4.  **** *() * -- 
+    > **E.g:** 
+5.  **** *() * -- 
+    > **E.g:** 
+6.  **** *() * -- 
+    > **E.g:** 
+7.  **** *() * -- 
+    > **E.g:** 
+8.  **** *() * -- 
+    > **E.g:** 
+9.  **** *() * -- 
+    > **E.g:** 
+10. **** *() * -- 
+    > **E.g:** 
